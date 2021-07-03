@@ -1,1 +1,1 @@
-# TrexUltimate
+# trex-runner
